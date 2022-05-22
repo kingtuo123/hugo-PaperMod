@@ -280,6 +280,7 @@
 .toc .details {
     display: inline;
     font-weight: 500;
+    padding-left: 5px;
 }
 
 .toc .inner {
